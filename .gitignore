@@ -1,1 +1,3 @@
 /Prueba-servidor/node_modules
+*.db-shm
+*.db-wal
